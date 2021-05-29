@@ -11,19 +11,6 @@ class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // appBar: AppBar(
-      //   title: Text(
-      //     "Sky Eco Tech",
-      //     style: TextStyle(
-      //       letterSpacing: 2.0,
-      //       color: Colors.white,
-      //     ),
-      //   ),
-      //   leading: Icon(
-      //     Icons.menu,
-      //   ),
-      //   backgroundColor: Colors.red,
-      // ),
       body: SafeArea(
           child: Center(
         child: Column(
